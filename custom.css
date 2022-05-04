@@ -1,0 +1,11 @@
+h1 {
+    color:bisque; 
+}
+.main {
+    color: aquamarine;
+  }
+
+
+p.hide{
+  display: none;
+}
